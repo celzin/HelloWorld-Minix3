@@ -1,4 +1,12 @@
-# Instalação da Máquina Virtual
+# MINIX 3
+
+<p align="justify">
+
+O [**MINIX 3**](https://www.minix3.org/) é um clone do UNIX pequeno e livre, projetado para ser altamente confiável. Ele é especialmente desenhado para PCs de baixo custo, sistemas de recursos limitados e sistemas embarcados. Como ele está disponível em open source, se fez apropiado para aprender como um sistema operacional funciona.
+
+</p>
+
+## Instalação da Máquina Virtual
 <p align="justify">
 
 Primeiramente, para a instalação do [**MINIX 3**](https://www.minix3.org/) recomenda-se o uso de uma máquina virtual. Como máquina virtual usaremos o [**VMware Workstation Player**](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html), para fazer seu download basta clicar em seu nome em azul, bastando escolher conforme sua versão de sistema operacional.
@@ -61,7 +69,7 @@ Após a seleção da ISO, passa a escolha do nome da máquina virtual que será 
 
 </div>
 
-# Instalação do MINIX 3 na Máquina Virtual
+## Instalação do MINIX 3 na Máquina Virtual
 
 <p align="justify">
 
@@ -127,7 +135,7 @@ Por fim, escolhemos o modelo de interface de rede, conforme o hardware do usuár
 
 </div>
 
-# Primeiro "Hello World" no MINIX 3
+## Primeiro "Hello World" no MINIX 3
 
 <p align="justify">
 
