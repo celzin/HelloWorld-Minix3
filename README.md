@@ -1,17 +1,17 @@
 # MINIX 3
 
-<p align="justify">
+<div align="justify">
 
 O [**MINIX 3**](https://www.minix3.org/) é um clone do UNIX pequeno e livre, projetado para ser altamente confiável. Ele é especialmente desenhado para PCs de baixo custo, sistemas de recursos limitados e sistemas embarcados. Como ele está disponível em open source, se fez apropiado para aprender como um sistema operacional funciona.
 
-</p>
+</div>
 
 ## Instalação da Máquina Virtual
-<p align="justify">
+<div align="justify">
 
 Primeiramente, para a instalação do [**MINIX 3**](https://www.minix3.org/) recomenda-se o uso de uma máquina virtual. Como máquina virtual usaremos o [**VMware Workstation Player**](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html), para fazer seu download basta clicar em seu nome em azul, bastando escolher conforme sua versão de sistema operacional.
 
-</p>
+</div>
 
 <div align="center">
 
@@ -19,13 +19,13 @@ Primeiramente, para a instalação do [**MINIX 3**](https://www.minix3.org/) rec
 
 </div>
 
-<p align="justify">
+<div align="justify">
 
 Em seguida prosseguiremos com a instalação do [**VMware Workstation Player**](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html), para isso, basta abrir o executável e seguir os passos para a instalação.
 
 Ao fim da instalação, partiremos para fazer o download da ISO do [**MINIX 3**](https://wiki.minix3.org/doku.php?id=www:download:start), nesse caso, nos usaremos a [**Versão 3.3.0**](http://download.minix3.org/iso/minix_R3.3.0-588a35b.iso.bz2).
 
-</p>
+</div>
 
 <div align="center">
 
@@ -33,11 +33,11 @@ Ao fim da instalação, partiremos para fazer o download da ISO do [**MINIX 3**]
 
 </div>
 
-<p align="justify">
+<div align="justify">
 
 Após o download da ISO do [**MINIX 3**](https://www.minix3.org/) na [**Versão 3.3.0**](http://download.minix3.org/iso/minix_R3.3.0-588a35b.iso.bz2), voltaremos ao [**VMware Workstation Player**](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html) e criareamos nossa máquina virtual clicando no botão **"Create a New Virtual Machine"**.
 
-</p>
+</div>
 
 <div align="center">
 
@@ -45,11 +45,11 @@ Após o download da ISO do [**MINIX 3**](https://www.minix3.org/) na [**Versão 
 
 </div>
 
-<p align="justify">
+<div align="justify">
 
 Após a escolha dessa opção abrirá uma caixa pedindo para escolher a ISO que iremos instalar na máquina virtual que estamos tentando criar, então selecionamos a opção **"Browse"** e encontramos o local onde o download da ISO do [**MINIX 3**](https://www.minix3.org/) na [**Versão 3.3.0**](http://download.minix3.org/iso/minix_R3.3.0-588a35b.iso.bz2) baixada.
 
-</p>
+</div>
 
 <div align="center">
 
@@ -57,11 +57,11 @@ Após a escolha dessa opção abrirá uma caixa pedindo para escolher a ISO que 
 
 </div>
 
-<p align="justify">
+<div align="justify">
 
 Após a seleção da ISO, passa a escolha do nome da máquina virtual que será criada, esse nome fica a cargo do usuário. Em seguida, passaremos para a alocação do espaço em disco que será usado pela máquina virtual, seguiremos o padrão recomendado e deixaremos 10 GB de espaço em disco, e por fim, finalizamos a criação de nossa máquina virtual, que logo em seguida será aberta e iniciaremos, enfim a instalação do [**MINIX 3**](https://www.minix3.org/).
 
-</p>
+</div>
 
 <div align="center">
 
@@ -71,11 +71,11 @@ Após a seleção da ISO, passa a escolha do nome da máquina virtual que será 
 
 ## Instalação do MINIX 3 na Máquina Virtual
 
-<p align="justify">
+<div align="justify">
 
 Ao iniciarmos a máquina virtual criada começarão os passos para instalação do [**MINIX 3**](https://www.minix3.org/). Assim, na tela inicial escolheremos a opção **"1. Regular MINIX 3"**, em seguida será pedido um login, basta digitar **"root"**.
 
-</p>
+</div>
 
 <div align="center">
 
@@ -83,11 +83,11 @@ Ao iniciarmos a máquina virtual criada começarão os passos para instalação 
 
 </div>
 
-<p align="justify">
+<div align="justify">
 
 Em seguida digitaremos **"setup"** para começar a instalação e em seguida se abrirá um MENU com 4 opções, porém só apertaremos **ENTER** para continuar com a instalação, então escolheremos o idioma que será usado para o teclado.
 
-</p>
+</div>
 
 <div align="center">
 
@@ -103,11 +103,11 @@ Após isso, confirmamos com um **"ENTER"** para prosseguir automaticamente coma 
 
 </div>
 
-<p align="justify">
+<div align="justify">
 
 Em seguida, confirmamos com **"yes"** para prosseguir na instalação, escolhemos o tamanho usado pelo [**MINIX 3**](https://www.minix3.org/), recomendado de **"1914"**, e por fim confirmamos o tamanho escolhido com um **"Y"**.
 
-</p>
+</div>
 
 <div align="center">
 
@@ -123,11 +123,11 @@ Após isso, confirmamos o tamanho do bloco de sistema com **"4"** e são carrega
 
 </div>
 
-<p align="justify">
+<div align="justify">
 
 Por fim, escolhemos o modelo de interface de rede, conforme o hardware do usuário, a ser usado pelo [**MINIX 3**](https://www.minix3.org/) e definimos a configuração automática na opção **"1. Automatically using DHCP"** e então o sistema estará totalmente instalado, precisaremos apenas reiniciar o sistema dando um **"reboot"** e ele estará pronto para uso.
 
-</p>
+</div>
 
 <div align="center">
 
@@ -137,11 +137,11 @@ Por fim, escolhemos o modelo de interface de rede, conforme o hardware do usuár
 
 ## Primeiro "Hello World" no MINIX 3
 
-<p align="justify">
+<div align="justify">
 
 Para criarmos nosso primeiro **"Hello World"** em C no MINIX, primeiramente iniciaremos nossa máquina virtual e precisaremos logar no sistema como **"root"**.Em seguida criaremos um arquivo com o comando "**touch + (nome do arquivo).c**", e depois damos o comando **"ls"** para verificar se o arquivo foi realmente criado. Por fim, após confirmação de que o arquivo foi criado inserimos o comando **"mined + (nome do arquivo)"** para podermos abri-lo e edita-lo.
 
-</p>
+</div>
 
 <div align="center">
 
@@ -149,11 +149,11 @@ Para criarmos nosso primeiro **"Hello World"** em C no MINIX, primeiramente inic
 
 </div>
 
-<p align="justify">
+<div align="justify">
 
 Já dentro do arquivo digitamos nosso código em **C** para criação do **"Hello World"**. Logo em seguida, utilizamos o atalho **"CTRL + W"** para salvar o que digitamos e então **"CTRL + S"** para voltar ao terminal.
 
-</p>
+</div>
 
 <div align="center">
 
@@ -161,11 +161,11 @@ Já dentro do arquivo digitamos nosso código em **C** para criação do **"Hell
 
 </div>
 
-<p align="justify">
+<div align="justify">
 
 De volta ao terminal, para compilar o código criado digitamos **"sh + (nome do arquivo)"** e se tudo estiver correto aparecerá logo abaixo o seu primeiro **"Hello World"** feito em **C** no [**MINIX 3**](https://www.minix3.org/).
 
-</p>
+</div>
 
 <div align="center">
 
